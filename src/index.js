@@ -19,6 +19,7 @@ root.render(
     <Task1/> */}
     {/* <CompA/> */}
     <Task2/>
+      <ListParent/>
   </React.StrictMode>
 );
 
